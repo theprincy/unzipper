@@ -8,7 +8,7 @@
  * @author  Andreas Tasch, at[tec], attec.at
  * @license GNU GPL v3
  * @package attec.toolbox
- * @version 0.1.1
+ * @version 1.1.1
  */
 define('VERSION', '1.1.1');
 
